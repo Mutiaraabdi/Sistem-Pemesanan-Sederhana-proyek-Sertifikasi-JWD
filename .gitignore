@@ -1,0 +1,6 @@
+# File sampah sistem
+Thumbs.db
+.DS_Store
+
+# Folder konfigurasi lokal (jika ada)
+.vscode/
